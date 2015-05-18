@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="xlistview_header_hint_normal">pull to refresh</string>
+    <string name="xlistview_header_hint_ready">Release to Refresh data</string>
+    <string name="xlistview_header_hint_loading">loading...</string>
+    <string name="xlistview_header_last_time">last update time：</string>
+    <string name="xlistview_footer_hint_normal">load more</string>
+    <string name="xlistview_footer_hint_ready">Release to load more</string>
+
+</resources>
