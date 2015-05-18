@@ -50,6 +50,6 @@ get SmartListView_libary into your progect
  
 I am a student in mainland China. I love Google, love Android, love everything that is interesting.
 
- If you get any problems when using this library or you have an internship opportunity, please feel free to [email me](fangjaylong@gmail.com). :smiley:
-
+ If you get any problems when using this library or you have an internship opportunity, please feel free to *[email me]***fangjaylong@gmail.com**.
+**
 at least if you have a opportunity of Internship ,I will will appreciate it.
